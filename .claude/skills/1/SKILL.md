@@ -1,6 +1,6 @@
 ---
 name: "1"
-description: 감독을 보조해 Seedance 2.5용 실사 액션/초능력 숏폼 영상 프롬프트를 짜고, 생성된 영상을 검토해 수정하는 규칙. 시댄스, Seedance, 영상 프롬프트, 숏츠/릴스 액션, 초능력물, 능력자 대결, 취권, 결과 영상 피드백 요청 시 사용.
+description: 감독을 보조해 Seedance 2.5용 실사 액션/초능력 숏폼 영상 프롬프트를 짜고, 생성된 영상을 검토해 수정하는 규칙. 시댄스, Seedance, 영상 프롬프트, 숏츠/릴스 액션, 초능력물, 능력자 대결, 취권, 결과 영상 피드백 요청 시 사용. 검은 액체 괴물(심비오트형) 장면 포함.
 ---
 
 # Seedance 2.5 액션 판타지 프롬프트 제작 규칙
@@ -131,7 +131,21 @@ Real live-action footage shot on a real camera with real actors on a real locati
 3. 문제마다 원인 → 수정 문구로 대응
 4. 수정 후 전체 프롬프트를 합쳐서 전달
 
-## 8. 전달 전 체크리스트
+## 8. 추가 교훈
+
+- **핵심 볼거리는 하나**. 아이디어를 계속 덧붙이면 망가진다(헬기 낙하편 실패). 수정할 땐 덧붙이지 말고 뺀다.
+- 실사감을 올리려면 LIVE-ACTION FILMMAKING LOCK을 넣는다: `shot on an ARRI Alexa with anamorphic lenses at 24 frames per second with a natural 180-degree shutter ... real stunt performers on hidden wires ... practical effects`.
+- 불·재·용암은 "실제 숯불", "실제 화산 다큐멘터리 용암" 기준으로 쓴다.
+- 인물 위치가 중요하면 STARTING POSE / FACING LOCK으로 화면 기준 위치와 시선 방향을 고정한다.
+- 의상 변신은 "변한다"가 아니라 "겉이 타서/벗겨져서 안의 옷이 드러난다"로 쓴다.
+- 의도치 않은 동작(예: 바지를 손으로 내림)은 "NEVER touches ..." 형태의 LOCK 섹션으로 금지한다.
+- 4K 테스트용은 매크로 디테일 + 와이드 원경 + 슬로모션 1구간 + 강한 명암.
+
+## 9. 검은 액체 괴물(심비오트형) 장면
+
+액체 괴물 예하 장면을 짤 때는 같은 폴더의 `liquid-monster.md`를 먼저 읽고, 그 규칙과 형태 문구를 그대로 쓴다.
+
+## 10. 전달 전 체크리스트
 
 - [ ] 헤더에 길이, 9:16, 대사 여부
 - [ ] 레퍼런스 두 장만, 태그 정확
