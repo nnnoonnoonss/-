@@ -75,8 +75,9 @@ No glow, no light, no particles, no energy effects. No monster face, no teeth, n
 
 3탄에서 비밀 실험실의 형광 초록 액체를 흡수해 **독 능력**을 얻음. 이후 편에서는 이 설정을 유지한다.
 
-- **흡수**: `tendrils pierce the glass tanks and drink the green liquid. The green liquid streams into the black body and swirls through it in marbled green veins, like green ink spreading through black oil.`
-- **외형 변화**: 흡수 후 검은 몸에 **초록 대리석 무늬 혈관**이 흐르고, 검은 눈 속에 초록빛이 일렁임.
+- **흡수**: `tendrils pierce the glass tanks and drink the green liquid. The green liquid streams into the black body and spreads through it in a network of veins, like blood vessels branching under skin.`
+- **외형 변화 (감독 확정)**: 기본은 **검은 몸**, 그 표면 바로 아래로 **초록 액체가 피처럼 흐르는 혈관**이 온몸에 가지처럼 뻗어 있음. 대리석 무늬가 아니라 **혈관**. 초록 액체가 혈관 속을 맥박에 맞춰 흐르고 고동침. 검은 눈 속에 초록빛이 일렁임.
+  `Her body stays glossy black, but just beneath its surface runs a network of branching veins, like blood vessels under skin, and through them the green liquid flows like blood — pulsing with a slow heartbeat, its faint green glow showing through the black.`
 - **초록 액체 표현**: `a thick, faintly fluorescent green liquid, like real fluorescent dye glowing softly under lab lights` — 빛줄기, 오라, 파티클 금지.
 - **독 표현은 결과로만 (실제 산성 부식처럼)**: 닿은 금속과 콘크리트가 **쉬익 소리를 내며 거품을 일으키고 녹아내림**, 매캐한 초록빛 연기가 피어오름, 총신이 녹아 휘어짐, 독 안개 속 적들이 기침하며 쓰러짐. 사람의 살이 녹는 묘사는 금지(필터, 고어).
 - **독 활용 예시**: 초록 줄무늬가 섞인 손가락 총 탄환이 총과 방패를 녹임 / 촉수가 철문을 녹여 뚫음 / 몸에서 초록 독 안개를 내뿜어 복도 전체 제압 / 바닥에 떨어진 방울 하나가 철판을 녹여 구멍을 냄.
