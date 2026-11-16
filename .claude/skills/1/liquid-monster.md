@@ -63,3 +63,20 @@ No glow, no light, no particles, no energy effects. No monster face, no teeth, n
 - 소리는 젖은 소리로 통일: `wet surge, wet snap, wet slicing, plopping into liquid, wet crawling, wet sloshing`.
 - 액체가 늑대·구체·인간형으로 바뀌어도 **같은 하나의 개체**라고 마지막 STYLE 줄에 명시: `Exactly one liquid creature (wolf, sphere, droplets, and humanoid are the same one)`.
 - 몸이 다 덮이는 편에서는 @Image 2(의상) 레퍼런스를 빼고 얼굴 레퍼런스만 쓴다.
+
+## 6. 추가 능력 (3탄에서 확정)
+
+- **MELT & SEEP (스며들기)**: `her whole body collapses straight down into a glossy black puddle, which drains into the hairline cracks of the asphalt like water soaking into sand, until it is completely gone.` 지하 이동은 CG 단면도 대신 **실제 배수관·케이블 덕트 안을 카메라가 쫓아가는** 방식.
+- **SEEP UP + BLACK POOL**: 배수구에서 보글보글 → 바닥 전체를 깊게 덮은 검은 액체층에 적들이 허리까지 빠짐 → 가시로 굳어 가둠. 콘크리트가 녹은 게 아니라 **콘크리트 위를 덮은 액체**임을 명시.
+- **FINGER GUN (손가락 총)**: 검으로 베는 것보다 감독 선호. `its right hand forms a finger-gun shape — index finger pointed, thumb raised — and fires rapid shots of black liquid from the fingertip, each shot a fast, glossy black liquid bullet. Where a shot hits, it bursts with a heavy wet splat and spreads, knocking weapons away, smashing cameras, or pinning a guard flat against the wall in a glossy black binding.`
+- **LOCK PICK**: 금고문 틈과 열쇠 구멍으로 스며들어 내부 톱니를 돌림(매크로) → 빗장이 풀림.
+
+## 7. 초록 액체 = 독 능력
+
+3탄에서 비밀 실험실의 형광 초록 액체를 흡수해 **독 능력**을 얻음. 이후 편에서는 이 설정을 유지한다.
+
+- **흡수**: `tendrils pierce the glass tanks and drink the green liquid. The green liquid streams into the black body and swirls through it in marbled green veins, like green ink spreading through black oil.`
+- **외형 변화**: 흡수 후 검은 몸에 **초록 대리석 무늬 혈관**이 흐르고, 검은 눈 속에 초록빛이 일렁임.
+- **초록 액체 표현**: `a thick, faintly fluorescent green liquid, like real fluorescent dye glowing softly under lab lights` — 빛줄기, 오라, 파티클 금지.
+- **독 표현은 결과로만 (실제 산성 부식처럼)**: 닿은 금속과 콘크리트가 **쉬익 소리를 내며 거품을 일으키고 녹아내림**, 매캐한 초록빛 연기가 피어오름, 총신이 녹아 휘어짐, 독 안개 속 적들이 기침하며 쓰러짐. 사람의 살이 녹는 묘사는 금지(필터, 고어).
+- **독 활용 예시**: 초록 줄무늬가 섞인 손가락 총 탄환이 총과 방패를 녹임 / 촉수가 철문을 녹여 뚫음 / 몸에서 초록 독 안개를 내뿜어 복도 전체 제압 / 바닥에 떨어진 방울 하나가 철판을 녹여 구멍을 냄.
