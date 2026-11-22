@@ -157,3 +157,7 @@ Real live-action footage shot on a real camera with real actors on a real locati
 - [ ] SOUND에 효과음 목록과 금지 문구
 - [ ] 인원수 고정 문구
 - [ ] 전체 프롬프트로 합쳐서 전달
+
+## 11. 예하 아카이브
+
+예하의 캐릭터 설정, 지금까지 만든 영상, 반응 좋았던 것과 실패한 것, 감독의 작업 방식은 같은 폴더의 `yeha.md`에 정리돼 있다. 새 예하 영상을 기획하기 전에 먼저 읽는다.
