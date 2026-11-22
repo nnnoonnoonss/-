@@ -81,3 +81,57 @@ No glow, no light, no particles, no energy effects. No monster face, no teeth, n
 - **초록 액체 표현**: `a thick, faintly fluorescent green liquid, like real fluorescent dye glowing softly under lab lights` — 빛줄기, 오라, 파티클 금지.
 - **독 표현은 결과로만 (실제 산성 부식처럼)**: 닿은 금속과 콘크리트가 **쉬익 소리를 내며 거품을 일으키고 녹아내림**, 매캐한 초록빛 연기가 피어오름, 총신이 녹아 휘어짐, 독 안개 속 적들이 기침하며 쓰러짐. 사람의 살이 녹는 묘사는 금지(필터, 고어).
 - **독 활용 예시**: 초록 줄무늬가 섞인 손가락 총 탄환이 총과 방패를 녹임 / 촉수가 철문을 녹여 뚫음 / 몸에서 초록 독 안개를 내뿜어 복도 전체 제압 / 바닥에 떨어진 방울 하나가 철판을 녹여 구멍을 냄.
+
+## 8. 최근 작업에서 확정된 것 (CCTV 1화, 연구소 습격 등)
+
+### 감독 피드백 → 해결 (추가분)
+
+| 실패 / 요청 | 해결 |
+|---|---|
+| 변신 6개를 30초에 몰아넣어 전부 망함 | **한 편에 어려운 변신은 1~2개만**. 나머지는 이미 성공한 동작(손가락 총 등)으로 채움. 변신 샷마다 시간을 충분히 줌 |
+| **손가락 총은 아주 잘 나옴** | 액체 액션의 메인 무기로 사용. 단순한 동작 하나라서 성공률이 높음 |
+| 손가락 총에서 화염·연기가 나옴 | `ABSOLUTELY NO muzzle flash, NO gunpowder, NO fire, NO smoke, NO sparks, NO explosion from her finger. ONLY liquid shooting out, with a sharp wet "pew" sound — like squirting thick black ink, not like firing a gun.` |
+| 적과 등지고 싸움 | **FACING LOCK**: 항상 적과 정면 대치(standoff), 사이드 투샷으로 마주 보는 구도 |
+| 고개 "돌리기"로 나옴 | **고개를 옆으로 꺾기**: `tilts her head sideways — further and further, until her ear nearly touches her shoulder — and rolls her eyes up to stare directly into the lens` |
+| 괴물 얼굴이 애매함 | **MONSTER JAWS** 문단을 따로 둠(아래) |
+| 괴물 동작이 느림 | 시간을 0.5초로 못 박고 `in the blink of an eye — a fraction of a second — ... It happens so fast it is shocking.` |
+| 긴박감 부족 | 0.5초 인서트 6컷 멀티샷(의자 → 무전기 → 총 뽑기 → 군화 → 모퉁이 → 문 손잡이) |
+| 문 열면 액체가 안 보임 | 방을 무릎 높이까지 채우고, **문 여는 순간 액체가 문틈으로 밀려나와 군화를 덮음**, 경찰이 발밑을 내려다보는 시선으로 화면에 자연스럽게 노출 |
+| 등 뒤에서 안 나옴 | 그가 **밟고 선 액체가 바로 등 뒤에서 솟음** + 어깨 너머 샷과 역샷으로 위치 고정 |
+| 눈이 너무 예쁨 | **MONSTER EYES** 문단(아래) |
+| 회피가 밋밋함 | **벽을 옆으로 달리고, 천장을 거꾸로 거미처럼 기고, 반대편 벽으로 뛰어 붙음**. 카메라도 같이 회전하며 화면이 뒤집힘 |
+| 얼굴 노출 원치 않음 | 처음부터 얼굴 없는 형체로 가고 @Image 1은 체형 참고용으로만. 마지막에 눈만 등장 |
+
+### 괴물 디자인 문구
+
+- **MONSTER JAWS**: `A clear, terrifying monster mouth, not a vague shape. The whole black head splits horizontally from side to side, and the jaw unhinges like a snake's, opening far wider than the head itself. Inside: several rows of long, thin, jagged, needle-like black teeth, irregular and crooked, glistening wet. Thick strings of black slime stretch between the upper and lower jaws. Grotesque and horrifying, like a deep-sea predator, but made entirely of glossy black liquid.`
+- **MONSTER EYES**: `NOT human eyes, NOT pretty eyes. Two large, inhuman eyes set too far apart: no whites, a murky, sickly yellow color, thin vertical slit pupils like a reptile's, wet and glistening.`
+- **MONSTER GRIN** (얼굴 없는 머리): `a thin line splits open across the smooth black head and stretches into an impossibly wide, unnatural grin, edged with rows of small, sharp black spikes like teeth. Nothing else on the head — only that grin.`
+- **FACELESS FIGURE**: `a tall, slender female figure made entirely of glossy black liquid, including a smooth, featureless head — no face, no hair.`
+
+### 새 형태
+
+- **LIQUID BIRD**: `a large bird shaped from glossy black liquid, like a huge black raven with wide wings, its surface rippling and its wingtips dripping as it glides. Not a real bird: no feathers, no real eyes.` → 날개를 접고 **창 모양으로 늘어나 수직 낙하**, 천장을 부수고 진입.
+- **SPIDER TENDRILS**: `eight long, thin, jointed liquid tendrils burst out of her back and arch over her like the legs of a giant spider, then strike out all at once` (총을 일제히 빼앗기 등).
+- **WALL-AND-CEILING DODGE**: `sprints sideways along the wall, runs up onto the ceiling and scuttles upside down along it like a spider, drops and flips across to the opposite wall — always with real weight and momentum, like a real stunt performer on wires.`
+- **CORRIDOR COAT + SPIKE STORM**: 형체가 벽 속으로 사라지면 복도 바닥·벽·천장 전체가 검은 액체로 덮여 있음 → 적들이 등 맞대고 손전등으로 두리번 → `rat-a-tat` 사방에서 거대한 가시가 연속으로 튀어나옴.
+- **LIQUID SEAL**: 액체가 문과 문틀을 덮고 굳어 봉쇄.
+- **CCTV 오프닝**: 천장 구석 고정 광각, 흑백에 가까운 초록 틴트, 거친 화질, 끊기는 프레임, 간섭선. **타임스탬프·글자 금지**(깨져 나옴).
+
+## 9. 검열(생성 차단) 대응
+
+차단 원인이 될 가능성이 높은 순서:
+1. **실제 공권력(경찰)이 피해자** — 제복·경찰서·무전기까지 들어가면 현실의 경찰로 인식됨
+2. **신체 관통 묘사** — "등에서 배로 뚫고 나옴(through his stomach)"
+3. **집단 살상** — "piercing every officer"
+4. 단어: `blood`, `gasping`, `collapses`, `kill`, `stomach`, `impale`
+5. 사람 살이 녹는 장면 (독)
+
+해결책 (감독이 2번 전체 + 3번 일부를 채택):
+- **관통 → 제압**: 액체는 아무도 다치게 하지 않고 잡고, 내리꽂고, 묶고, 고정만 함. `SUBDUING ONLY — The liquid never wounds anyone. It only grabs, slams, binds, and pins.`
+  - 촉수가 몸통을 휘감아 벽에 내리꽂고 굳어서 봉인
+  - 가시는 **소매, 조끼끈, 벨트, 옷감만 뚫고** 벽·바닥·천장에 고정, 몸은 건드리지 않음
+- **결과는 화면 밖**(일부): 가시가 터지는 순간까지 보여주고, 손전등이 떨어져 굴러가며 암전, 비명과 소리만.
+- 독 장면은 **장비(총, 헬멧, 방탄복)만 녹고**, 사람은 초록 연기 속 실루엣으로만.
+- 장르 표기는 horror → thriller로 순화.
+- 그래도 막히면 다음 단계: 경찰 → **가상의 비밀 조직 요원**, 경찰서 → **비밀 수용 시설**.
